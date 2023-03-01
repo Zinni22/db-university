@@ -1,3 +1,6 @@
+EX - Query con SELECT
+
+
 1.
 	SELECT *
 	FROM `students`
